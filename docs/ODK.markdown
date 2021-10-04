@@ -2,6 +2,9 @@
 layout: page
 title: Opteran Tecnologies Development Kit
 permalink: /ODK/
+nav_order: 2
+has_children: true
+
 ---
 This page is a parent to all odk tutorials/quickstarts
 
