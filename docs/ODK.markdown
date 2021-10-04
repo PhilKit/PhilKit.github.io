@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Test
-permalink: /TEst/
+title: Opteran Tecnologies Development Kit
+permalink: /ODK/
 ---
-I'm testing how to push changes!
+This page is a parent to all odk tutorials/quickstarts
 
 
 This is another test
