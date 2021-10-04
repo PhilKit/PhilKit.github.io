@@ -2,10 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+nav_order: 2
 ---
 I'm testing how to push changes!
 
-
+![Alt text](assets/images/Opteran_logo.png"Opteran Devkit ODK")
 This is another test
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
